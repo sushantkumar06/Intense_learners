@@ -1,17 +1,2 @@
-# coaching_app_flutter
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Intense_learners
+Intense Learners is a cross-platform Flutter coaching app connecting students and teachers. It features an AI-powered study planner, video lectures, timed quizzes, chapter notes, assignment submissions, and a multimedia doubt-resolution forum. Built with Dart, Riverpod, and REST APIs, wrapped in a sleek, accessible dark-teal glassmorphism UI.
